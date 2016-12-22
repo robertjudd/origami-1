@@ -10,7 +10,7 @@ import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;
 
 /**
- * Test class for the ForgettingConcurrencyHashMap
+ * Test class for the ForgettingConcurrentHashMap
  *
  * @author Robert Judd
  */
